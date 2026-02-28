@@ -1,5 +1,21 @@
 # 💫 About Me:
-Full Stack Web Applications using MERN Stack and building real-world projects.<br>Open-source projects, Web Development projects, and Problem Solving (DSA).<br>System Design, Backend Optimization, and Advanced React concepts.<br>Data Structures & Algorithms, System Design, and Python for backend & analytics.<br>MERN Stack, JavaScript, React, Node.js, MongoDB, and basic DevOps.<br>I debug more than I sleep and I love turning ideas into web apps 🚀
+🔭 I’m currently working on  
+Building scalable Full Stack Web Applications using the MERN Stack and developing real-world projects.
+
+👯 I’m looking to collaborate on  
+Open-source initiatives, web development projects, and competitive programming (DSA).
+
+🤝 I’m looking for help with  
+System design, backend performance optimization, and advanced React concepts.
+
+🌱 I’m currently learning  
+Data Structures & Algorithms, system design principles, and Python for backend development and analytics.
+
+💬 Ask me about  
+MERN Stack, JavaScript, React, Node.js, MongoDB, and basic DevOps practices.
+
+⚡ Fun fact  
+I enjoy solving complex bugs and transforming ideas into impactful web applications 🚀
 
 
 ## 🌐 Socials:
