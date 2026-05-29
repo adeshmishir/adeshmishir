@@ -15,7 +15,7 @@ Data Structures & Algorithms, system design principles, and Python for backend d
 MERN Stack, JavaScript, React, Node.js, MongoDB, and basic DevOps practices.
 
 ⚡ Fun fact  
-I enjoy solving complex bugs and transforming ideas into impactful web applications 🚀
+I enjoy solving complex bugs and transforming ideas into impactful web applications.
 
 
 ## 🌐 Socials:
