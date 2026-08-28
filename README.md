@@ -16,10 +16,9 @@ Advanced Data Structures & Algorithms, system design, scalable backend architect
 C++, JavaScript, React.js, Node.js, Express.js, MongoDB, Redis, Docker, REST APIs, and competitive programming.
 
 🏆 **Highlights**
-• 750+ LeetCode problems solved
+• 900+ LeetCode problems solved
 • Codeforces Specialist
 • CodeChef 3★ Coder
-• Smart India Hackathon Finalist
 • Passionate about building scalable and impactful software
 
 ⚡ **Fun Fact**
